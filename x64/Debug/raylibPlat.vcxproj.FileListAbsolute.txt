@@ -1,0 +1,3 @@
+C:\Users\Alumno\Desktop\Santiago C\raylibPlat\x64\Debug\raylib.dll
+C:\Users\Alumno\Desktop\Santiago C\raylibPlat\x64\Debug\glfw3.dll
+C:\Users\Alumno\Desktop\Santiago C\raylibPlat\raylibPlat\x64\Debug\raylibPl.7BCB6754.Up2Date
